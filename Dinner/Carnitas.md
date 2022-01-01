@@ -1,8 +1,6 @@
-# Food Name
+# Carnitas
 
-[From Here](https://github.com/cnstoll/Grocery-Recipe-Format)
-
-> Intro Notes - keep this short
+> Serve over rice in a tortilla with cheese. Sometimes the butcher has pork shoulder cut up as country style ribs.
 
 ## Ingredients
 
