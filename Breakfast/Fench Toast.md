@@ -9,6 +9,3 @@
 | Honey               | 2      | Tbsp  |                                                                                       |
 | Salt                | 1/4    | tsp   |                                                                                       |
 
-## Instructions
-
-Throw in a crock pot for 6 - 8 hours.
