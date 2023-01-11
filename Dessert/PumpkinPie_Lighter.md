@@ -1,38 +1,26 @@
-# Food Name
+# Pumpkin Pie
 
-[From Here](https://github.com/cnstoll/Grocery-Recipe-Format)
-
-> Intro Notes - keep this short. Ctrl + Shift + V to preview in vs code.
+> Slightly lighter than the other pumpkin pie recipe, but still not exactly healthy
 
 ## Ingredients
 
 | Ingredient          | Qty    | Unit  | Notes                                                                                 |
 |---------------------|--------|-------|---------------------------------------------------------------------------------------|
-| Pork Shoulder       | 4      | lbs   |                                                                                       |
-| Egg                 | 1      |       |                                                                                       |
+| Pumpkin             | 1 1/2  | cup   |                                                                                       |
+| Evaporated Milk     | 1 3/4  | cup   |                                                                                       |
+| Eggs                | 2      |       |                                                                                       |
+| Pie Crust           | 1      |       | 9" I used a graham cracker crust                                                      |
 
-| Romano              | 1      | oz    |                                                                                       |
-
-| Vegetable Oil       | 1/4    | cup   |                                                                                       |
-| Olive Oil           | 1      | Tbsp  |                                                                                       |
-
-| Kosher Salt (Morton)| 3      | Tbsp  |                                                                                       |
-| Salt                | 1/4    | tsp   | To Taste                                                                              |
-| Pepper              | 1/2    | tsp   | Ground. To taste                                                                      |
-| Cayenne             | 1/2    | tsp   | To Taste                                                                              |
-| Chipolte Powder     | 1      | Tbsp  |                                                                                       |
-| Oregano (dried)     | 1/2    | tsp   |                                                                                       |
-| Cumin (ground)      | 1/2    | tsp   |                                                                                       |
-
-| Bread Crumb         | 1/3    | cup   |                                                                                       |
-
-| Onion               | 1      |       | Diced                                                                                 |
-| Jalapeno            | 1      |       | Sliced                                                                                |
-| Garlic              | 1      | clove |                                                                                       |
-| Water (or broth)    | 7 1/4  | cup   |                                                                                       |
-
-| Orange Juice        | 1/2    | cup   |                                                                                       |
+| Sugar               | 1      | cup   |                                                                                       |
+| Salt                | 1/2    | tsp   |                                                                                       |
+| Cinnamon            | 1 1/2  | tsp   |                                                                                       |
+| Nutmeg              | 1/2    | tsp   |                                                                                       |
+| Ginger              | 1/2    | tsp   |                                                                                       |
+| Allspice            | 1/2    | tsp   |                                                                                       |
+| Cloves              | 1/2    | tsp   |                                                                                       |
 
 ## Instructions
 
-Throw in a crock pot for 6 - 8 hours.
+Cut pie pumpkin in half. Remove seeds, wrap in aluminum foil and bake at 375f for about an hour. Remove pumpkin and mash.
+
+Mix all ingredients until smooth. Pour into crust and bake at 450f for 15 minutes. Reduce temperature to 325 and bake until knife comes out clean, about 45 minutes.
