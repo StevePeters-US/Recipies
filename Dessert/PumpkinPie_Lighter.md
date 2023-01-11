@@ -5,19 +5,19 @@
 ## Ingredients
 
 | Ingredient          | Qty    | Unit  | Notes                                                                                 |
-|---------------------|--------|-------|---------------------------------------------------------------------------------------|
-| Pumpkin             | 1 1/2  | cup   |                                                                                       |
-| Evaporated Milk     | 1 3/4  | cup   |                                                                                       |
-| Eggs                | 2      |       |                                                                                       |
-| Pie Crust           | 1      |       | 9" I used a graham cracker crust                                                      |
-
-| Sugar               | 1      | cup   |                                                                                       |
-| Salt                | 1/2    | tsp   |                                                                                       |
-| Cinnamon            | 1 1/2  | tsp   |                                                                                       |
-| Nutmeg              | 1/2    | tsp   |                                                                                       |
-| Ginger              | 1/2    | tsp   |                                                                                       |
-| Allspice            | 1/2    | tsp   |                                                                                       |
-| Cloves              | 1/2    | tsp   |                                                                                       |
+|:---------------------|:--------:|:-------:|:---------------------------------------------------------------------------------------|
+| Pumpkin             | 1 1/2  | cup   |                                                                                       
+| Evaporated Milk     | 1 3/4  | cup   |                                                                                       
+| Eggs                | 2      |       |                                                                                       
+| Pie Crust           | 1      |       | 9" I used a graham cracker crust                                                      
+||||
+| Sugar               | 1      | cup   |                                                                                       
+| Salt                | 1/2    | tsp   |                                                                                       
+| Cinnamon            | 1 1/2  | tsp   |                                                                                       
+| Nutmeg              | 1/2    | tsp   |                                                                                       
+| Ginger              | 1/2    | tsp   |                                                                                       
+| Allspice            | 1/2    | tsp   |                                                                                       
+| Cloves              | 1/2    | tsp   |                                                                                       
 
 ## Instructions
 

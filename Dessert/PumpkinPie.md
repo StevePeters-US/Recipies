@@ -7,19 +7,19 @@
 | Ingredient          | Qty    | Unit  | Notes                                                                                 |
 |---------------------|--------|-------|---------------------------------------------------------------------------------------|
 | Pie Crust           | 1      |       | 9" I used a graham cracker crust                                                      |
-
-| Pumpkin             | 2      | cup   |                                                                                       |
-| Half and Half       | 1      | cup   |                                                                                       |
-| Egg                 | 1      |       |                                                                                       |
-| Egg Yolk            | 2      |       |                                                                                       |
-| Butter              | 1/4    | cup   | 1/2 stick - melted                                                                    |
-| Cream Cheese        | 8      | oz    | 1 package - softened                                                                  |
-| Sugar               | 1      | cup   |                                                                                       |
-| vanilla             | 1      | tsp   |                                                                                       |
-
-| Salt                | 1/4    | tsp   |                                                                                       |
-| Cinnamon            | 1/2    | tsp   |                                                                                       |
-| Ginger              | 1/4    | tsp   |                                                                                       |
+||||
+| Pumpkin             | 2      | cup   |                                                                                       
+| Half and Half       | 1      | cup   |                                                                                       
+| Egg                 | 1      |       |                                                                                       
+| Egg Yolk            | 2      |       |                                                                                       
+| Butter              | 1/4    | cup   | 1/2 stick - melted                                                                    
+| Cream Cheese        | 8      | oz    | 1 package - softened                                                                  
+| Sugar               | 1      | cup   |                                                                                       
+| vanilla             | 1      | tsp   |                                                                                       
+||||
+| Salt                | 1/4    | tsp   |                                                                                       
+| Cinnamon            | 1/2    | tsp   |                                                                                       
+| Ginger              | 1/4    | tsp   |                                                                                       
 
 ## Instructions
 
