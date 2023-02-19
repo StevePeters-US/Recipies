@@ -14,7 +14,6 @@
 | Sesame Sauce        | 1/4    | tsp   |                                                                                       |
 | Butter              | 4      | Tbsp  |                                                                                       |
 | Garlic              | 8      | clove | Smashed and chopped                                                                   |
-| Parmesean           | 1/4    | cup   |                                                                                       |
 
 ## Instructions
 
