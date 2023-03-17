@@ -14,7 +14,8 @@
 | Sesame Sauce        | 1/4    | tsp   |                                                                                       |
 | Butter              | 4      | Tbsp  |                                                                                       |
 | Garlic              | 8      | clove | Smashed and chopped                                                                   |
+| Parmesean Cheese    |        |       | For topping. To taste                                                                 |
 
 ## Instructions
 
-Cook noodles as directed. Toss with sauce.
+Cook noodles as directed. Toss with sauce. Top with parmesean if desired.
