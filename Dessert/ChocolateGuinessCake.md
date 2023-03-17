@@ -1,7 +1,5 @@
 # Chocolate Guiness Cake
 
-> Intro Notes - keep this short. Ctrl + Shift + V to preview in vs code.
-
 ## Ingredients
 
 | Ingredient         | Qty     | Unit   | Notes                   |
