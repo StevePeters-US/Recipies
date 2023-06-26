@@ -12,7 +12,7 @@
 | Butter            | 1      | Stick  | Cold, shredded                                                                                      
 | Add Ins | 1      | Tbsp  |  Fresh Rosemary                                         
 ||||
-| Milk        | 1    | cup   |                                                                                                     
+| Milk        | 1    | cup   | Or buttermilk                                                                                                 
 
 ## Instructions
 
