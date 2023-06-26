@@ -39,7 +39,25 @@
 | Applesauce          | 1      | cup   |                          |
 | Orange extract      | 1/2    | tsp   |                          |
 | Orange zest         | 1      | tbsp  |                          |
-| Dried cranberries   | 2/3    | cup   |                          |                                                                                   
+| Dried cranberries   | 2/3    | cup   |                          |   
+||
+|| Apple Cinnamon Muffins
+| Applesauce              | 1     | cup    |                           |
+| Shredded apples         | 1     | cup    | moisture removed          |
+| Ground cinnamon         | 2     | tsp    |                           |
+| Vanilla extract         | 1     | tsp    |                           |
+||
+|| Pumpkin
+| Pumpkin puree        | 1/2    | cup    |                                     |
+| Cocoa powder         | 1/2    | cup    |                                     |
+| Shredded zucchini    | 1      | cup    | Moisture removed                    |
+| Milk                 | 1/4    | cup    | In addition to base recipe   
+||
+|| Chocolate Chip Pumpkin Muffins
+| Pumpkin puree          | 1     | cup   |                            |
+| Vanilla extract        | 1     | tsp   |                            |
+| Ground cinnamon        | 1     | tsp   |                            |
+| Chocolate chips        | 1/2   | cup   |                            |                                                                                
 
 ## Instructions
 
