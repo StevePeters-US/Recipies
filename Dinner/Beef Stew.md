@@ -20,6 +20,7 @@
 | Rosemary            | 1      | tsp   |                                                                                       |
 | Dried Parsley       | 1      | tsp   |                                                                                       |
 | Cornstarch          | 2      | tsp   |                                                                                       |
+| Sage          | 1/2      | tsp   |                                                                                       |
 | Fresh Thyme         | 2      | sprig |                                                                                       |
 
 ## Instructions
