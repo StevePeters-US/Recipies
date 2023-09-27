@@ -36,7 +36,7 @@ Gradually mix the dry ingredients into the wet ingredients, alternating with the
 
 Pour the batter evenly into the prepared cake pan.
 
-Baked for 15-18 minutes or until moist crumbs cling to a toothpick inserted into the center. Do not over bake. Cake will continue cooking as it cools.
+Baked for 40 - 45 minutes or until moist crumbs cling to a toothpick inserted into the center. Do not over bake. Cake will continue cooking as it cools.
 
 ## Frosting
 | Ingredient                        | Qty  | Unit  | Notes               |
