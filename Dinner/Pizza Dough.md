@@ -8,12 +8,11 @@ large calzones.
 |-------------------------------------|-----------------------|------------|------------------------------------------------|
 | Active dry yeast                   | 1 package (about 2 1/4 teaspoons)|          |                                                |
 | Warm water                          | 1 cup                 |            | 100°F to 110°F (37.8°C to 43.3°C)             |
-| Cold water                          | 1 1/4 cups            |            |                                                |
 | Olive oil                           | 2 tablespoons         |            |                                                |
 | Sugar                               | 1 teaspoon            |            |                                                |
 | Salt                                | 1 teaspoon            |            |                                                |
-| Unbleached bread flour (white wheat)             | 26.1 ounces (about 5 1/2 cups)|       | Divided                                        |
-
+| Unbleached bread flour              | 250 g (about 2 cups)|       |                                         |
+| White wheat             | 187.5 g (about 1 1/2 cups)|       |                                         |
 ## Instructions
 
 Dissolve yeast in 1 cup warm water in a small bowl; let stand 5 minutes. Conbine 1 1/4 cups cold water, oil, sugar, and salt in a
