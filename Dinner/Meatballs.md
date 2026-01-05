@@ -4,8 +4,7 @@
 | Ingredient                            | Qty     | Unit   | Notes                            |
 |---------------------------------------|---------|--------|----------------------------------|
 | Ground beef                           | 1 pound |        |                                  |
-| Ground veal                           | 1/2 pound |       |                                  |
-| Ground pork                           | 1/2 pound |       |                                  |
+| Ground pork                           | 1 pound |       |                                  |
 | Garlic, minced                        | 2 cloves |        |                                  |
 | Eggs                                  | 2       |        |                                  |
 | Romano cheese, freshly grated         | 1 cup   |        |                                  |
